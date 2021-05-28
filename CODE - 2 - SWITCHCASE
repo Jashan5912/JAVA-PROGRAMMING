@@ -1,0 +1,21 @@
+package introduction;
+
+public class uhdjuvtg {
+
+	public static void main(String[] args) {
+		char grade = 'A';
+		switch (grade) {
+		case 'A': 
+			System.out.println("EXCELLENT!,YOUR GRADE IS GOOD");
+			break;
+		case 'B':
+			System.out.println("VERY GOOD!,KEEP LEARNING");
+			break;
+		default:
+			System.out.println("WORK HARD");
+		
+		
+		}
+	}
+
+}
