@@ -9,6 +9,7 @@ public class Loopsum {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Enter Value of n: ");
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		float result = 0;
